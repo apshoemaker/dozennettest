@@ -1,0 +1,11 @@
+C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\DozenNetTest.Domain.dll.config
+C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\DozenNetTest.Domain.deps.json
+C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\DozenNetTest.Domain.dll
+C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.AssemblyInfoInputs.cache
+C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.AssemblyInfo.cs
+C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\DozenNetTest.Domain.pdb
+C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.dll
+C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.pdb
+C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
