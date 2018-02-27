@@ -9,3 +9,4 @@ C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTe
 C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.pdb
 C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
 C:\Projects\DozenNetTest\DozenNetTest.Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Projects\DozenNetTest\DozenNetTest.Domain\obj\Debug\netstandard2.0\DozenNetTest.Domain.csprojResolveAssemblyReference.cache
